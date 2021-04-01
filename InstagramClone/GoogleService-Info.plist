@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>813554976766-g3vhvfbs3bl9kt8t45ar95b8s7jkelv8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.813554976766-g3vhvfbs3bl9kt8t45ar95b8s7jkelv8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDP7btke_vW8ilNxRHpSAr-FT5BLSM9qXY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>813554976766</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eliamyro.Instagramm</string>
+	<key>PROJECT_ID</key>
+	<string>latestinstogram</string>
+	<key>STORAGE_BUCKET</key>
+	<string>latestinstogram.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:813554976766:ios:f01fec42a4dd40859422af</string>
+	<key>DATABASE_URL</key>
+	<string>https://latestinstogram.firebaseio.com</string>
+</dict>
+</plist>
